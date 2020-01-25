@@ -2,6 +2,7 @@
 ![Alt Text](Intro_image.png)
 
 # Introduction
+This project was done for the Marketing Analytics course work under the guidance of [Prof. Garret Sonnier](https://www.mccombs.utexas.edu/Directory/Profiles/Sonnier-Garrett)<br />
 The goal of this project was to formulate marketing and budgeting strategies for a UK based non-store online retail firm which mainly sells unique all-occasion gifts and whose customers are mostly wholesalers. We achieved this by predicting the per capita revenue of a target segment of customers arrived from RFM analysis and developing product suggestions for them using association rules (market basket analysis)
 
 # Data Overview
